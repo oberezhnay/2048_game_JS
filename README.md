@@ -30,7 +30,7 @@ git clone https://github.com/oberezhnay/layout_landing-page.git
 cd layout_landing-page
 ```
 
-2. Install dependencies
+### 2. Install dependencies
 
 ```
 npm install
@@ -38,7 +38,7 @@ npm install
 yarn install
 ```
 
-3. Run the project locally
+### 3. Run the project locally
 
 ```
 npm start
@@ -46,7 +46,7 @@ npm start
 yarn start
 ```
 
-The game logic is implemented without external libraries and includes:
+## The game logic is implemented without external libraries and includes:
 
 - Game state management using a 4×4 matrix
 
