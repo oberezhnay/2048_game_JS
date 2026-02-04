@@ -1,7 +1,7 @@
 # 2048 Game (JavaScript)
 
 A browser-based implementation of the classic **2048 game**, built with **JavaScript**, HTML, and CSS.
-This project focuses on **JavaScript logic, state management, and DOM manipulation**, rather than using external libraries or frameworks.
+This project focuses on **JavaScript logic, state management, and DOM manipulation**.
 
 ## 🔗 Live Preview
   - [DEMO LINK](https://oberezhnay.github.io/2048_game_JS/)
@@ -46,9 +46,7 @@ npm start
 yarn start
 ```
 
-🧠 Game Logic Overview
-
-- The game logic is implemented without external libraries and includes:
+The game logic is implemented without external libraries and includes:
 
 - Game state management using a 4×4 matrix
 
